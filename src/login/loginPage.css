@@ -1,0 +1,11 @@
+.Login{
+    margin : 40px;
+    border: 1px gray solid;
+    padding: 20px;
+}
+.loginHeading{
+    margin : 40px;
+}
+.alert{
+    margin : 20px 40px 40px 40px;
+}
